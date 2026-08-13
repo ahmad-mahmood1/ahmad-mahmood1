@@ -6,9 +6,9 @@ I own features end to end: architecture, API design, frontend, and the deploymen
 
 ## What I work with
 
-**Frontend** · React, Next.js, Angular, TypeScript, TailwindCSS
-**Backend** · Node.js, NestJS, Python (FastAPI, Django), GraphQL, PostgreSQL, Redis
-**Infra** · AWS, Docker, GitHub Actions, DataDog
+- **Frontend** · React, Next.js, Angular, TypeScript, TailwindCSS
+- **Backend** · Node.js, NestJS, Python (FastAPI, Django), GraphQL, PostgreSQL, Redis
+- **Infra** · AWS, Docker, GitHub Actions, DataDog
 
 ## Some things I've built
 
